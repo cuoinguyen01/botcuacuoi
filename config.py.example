@@ -1,4 +1,4 @@
-OWNER_ID = 'owner id (owner has all perms)'
+OWNER_ID = '301331888558309376'
 BOT_PREFIX = '!'
 TOKEN = 'bot token goes here'
 GAME_CHANNEL = 'lobby channel id'
