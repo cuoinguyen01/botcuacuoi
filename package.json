@@ -1,0 +1,14 @@
+{
+  "name": "BotCuaCuoi",
+  "description": "BotCuaCuoi",
+  "version": "0.1",
+  "main": "bot.py",
+  "scripts": {
+   "star": "node bot.py
+  };
+  "dependencies": {
+  "discord.js": "11.1.0",
+  "request": "2.81.0"
+  }
+}
+  
