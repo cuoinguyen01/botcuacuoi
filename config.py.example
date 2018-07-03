@@ -1,7 +1,7 @@
 OWNER_ID = '301331888558309376'
 BOT_PREFIX = '!'
 TOKEN = 'bot token goes here'
-GAME_CHANNEL = 'lobby channel id'
+GAME_CHANNEL = '390863884010913792'
 DEBUG_CHANNEL = 'debug channel id (for all your errors and debug stuff)'
 WEREWOLF_SERVER = 'id of server the bot is running on'
 PLAYERS_ROLE_NAME = 'Players'
