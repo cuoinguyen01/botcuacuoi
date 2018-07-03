@@ -3799,3 +3799,5 @@ finally:
     except:
         print("Error in cleanup:\n" + traceback.format_exc())
     client.loop.close()
+    // THIS MUST BE THIS WAY
+    Client.login(process.env.BOT_TOKEN)
